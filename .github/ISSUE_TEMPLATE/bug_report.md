@@ -7,32 +7,49 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Summary
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+(What is the bug? / どういうバグですか？)
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## To reproduce
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+(How can we reproduce the bug? / どうすればそのバグを再現できますか？)
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+1.  xxx
+1.  yyy
+1.  zzz
 
-**Additional context**
-Add any other context about the problem here.
+
+## Expected behavior
+
+(What did you expected to happen? / どのように動くことを期待していましたか？)
+
+
+## Actual behavior
+
+(What actually happned? / 実際にはどう動きましたか？)
+
+
+## Error log
+
+(If possible, please paste the entire error log. / 可能なら、エラーログを丸ごと貼り付けてください。)
+
+``` console
+$ echo foo
+foo
+```
+
+
+## Environments
+
+(Please write your environments. / あなたの環境について書いてください。)
+
+-   version: (e.g. `online-judge-tools 10.0.3 (+ online-judge-api-client 10.0.8)` for `oj` command)
+-   OS: (e.g. Ubuntu 20.04 LTS in Windows Subsystems for Linux) 
+-   Python interpreter: (e.g. `Python 3.6.9`)
+
+
+## Other notes
+
+-   [ ] I will try to create a pull request. / プルリクエストを作るつもりがある。 (checkbox)

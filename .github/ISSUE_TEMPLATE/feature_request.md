@@ -7,14 +7,21 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Description
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+(What is the feature? / どういう機能ですか？)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## Importance
+
+(Why do you want the feature? Why the feature is important? / なぜその機能がほしいですか？ なぜその機能は重要ですか？)
+
+
+## Possible implementations (optional)
+
+(How can we implement the feature? Please list, analyze, and compare all possible options. / その機能はどのように実装できますか？ 可能な選択肢をすべて列挙して分析して比較してください。)
+
+
+## Other notes
+
+-   [ ] I will try to create a pull request. / プルリクエストを作るつもりがある。 (checkbox)
