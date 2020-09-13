@@ -43,3 +43,11 @@
     -   Use tag names like `v1.2.3`
     -   Describe what are changed in the Description field. You can copy and paste this from `CHANGELOG.md`.
     -   This kicks a GitHub Action to upload the package to [PyPI](https://pypi.org/)
+
+
+## Contacts
+
+Currently [@kmyk](https://github.com/kmyk) is the main maitainer of this organization.
+Some repositories have additional maintainers.
+
+Also, as a backup, [@yosupo06](https://github.com/yosupo06) has the admin permission of this organization. If [@kmyk](https://github.com/kmyk) is gone, please contact to [@yosupo06](https://github.com/yosupo06).
