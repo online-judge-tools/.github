@@ -33,17 +33,19 @@ We will suggest you to contribute by doing:
 
 ## Making pull requests
 
-### How to install the package from the source
+### How to install the package from the source / ソースコードからインストールするには
 
 Run `$ pip3 install -e .[dev]` on the root directly of the project.
 
+### About tests / テストについて
 
-### How to run CI tests locally
+We are running format checkers (`yapf` and `isort`), a linter (`pylint`), and many tests (`test/*.py`) in GitHub Actions.
+They runs automatically when you make a pull request. Pull requests cannot be merged until all tests pass.
+To run them locally, see the workflows of GitHub Actions (`.github/workflows/*.yml`).
 
-Please see the workflows of GitHub Actions, which are defined in `.github/workflows/*.yml`.
+By the way, the checks with `pylint` may be too strict. You can use `# pylint: disable=...` or edit `setup.cfg` if it's reasonable.
 
-
-### How to pass the review
+### How to pass the review / コードレビューについて
 
 We review your pull request before merging to keep the quality of the product.
 So you don't have to worry about your pull request breaking the product.
