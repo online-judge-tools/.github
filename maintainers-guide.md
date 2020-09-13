@@ -50,4 +50,4 @@
 Currently [@kmyk](https://github.com/kmyk) is the main maitainer of this organization.
 Some repositories have additional maintainers.
 
-Also, as a backup, [@yosupo06](https://github.com/yosupo06) has the admin permission of this organization. If [@kmyk](https://github.com/kmyk) is gone, please contact to [@yosupo06](https://github.com/yosupo06).
+Also, as a backup, [@yosupo06](https://github.com/yosupo06) has the admin permission of this organization. If [@kmyk](https://github.com/kmyk) is gone, please contact [@yosupo06](https://github.com/yosupo06).
