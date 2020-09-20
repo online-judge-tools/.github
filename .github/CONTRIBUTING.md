@@ -1,5 +1,9 @@
 # Contribution Guide
 
+-   [CONTRIBUTING.md](https://github.com/online-judge-tools/oj/blob/master/CONTRIBUTING.md) of [online-judge-tools/oj](https://github.com/online-judge-tools/oj)
+-   [DESIGN.md](https://github.com/online-judge-tools/.github/blob/master/DESIGN.md) of [online-judge-tools](https://github.com/online-judge-tools) organization
+
+
 ## The first step
 
 ### If you found a bug / バグを見つけた場合
@@ -57,3 +61,8 @@ To pass the process:
     -   our [maintainers-guide.md](https://github.com/online-judge-tools/.github/blob/master/maintainers-guide.md)
     -   external resources like [How to write the perfect pull request - The GitHub Blog](https://github.blog/2015-01-21-how-to-write-the-perfect-pull-request/), or [The Change Author’s Guide](https://google.github.io/eng-practices/review/developer/) of [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
 -   When you get some comments, please fix your code or logically persuade the reviewers.
+
+
+## About designs
+
+There are design documents for each repository. See [DESIGN.md](https://github.com/online-judge-tools/.github/blob/master/DESIGN.md) of this organization.
