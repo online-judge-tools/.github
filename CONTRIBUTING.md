@@ -25,11 +25,10 @@ We don't recommend to try to create pull requests without issues. We should disc
 You're welcome!
 
 Please ask the maintainers what you can do via issues or other SNSs.
-We will suggest you to contribute by doing:
+As an easy (but important) tasks, you can
 
--   Proposing features
--   Implementing code
--   Writing documents
+-   Fixing [`good-first-issue`-labeled issues](https://github.com/search?q=org%3Aonline-judge-tools+is%3Aopen+label%3A%22good+first+issue%22&type=issues) or [`TODO` comments](https://github.com/search?q=org%3Aonline-judge-tools+TODO&type=code)
+-   Writing introduction articles
 -   Supporting other users directly
     -   on GitHub issues
     -   on other SNSs (e.g. Twitter)
