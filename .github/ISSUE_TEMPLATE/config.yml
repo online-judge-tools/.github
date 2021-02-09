@@ -1,5 +1,5 @@
 contact_links:
-  - name: User support
+  - name: User support / その他の相談
     # We should not use issues as a forum because it's not scalable. On issues, it's difficult for community users to answer questions.
     # Maybe we should use https://www.discourse.org/ instaed of https://gitter.im/
     url: https://gitter.im/online-judge-tools/community
