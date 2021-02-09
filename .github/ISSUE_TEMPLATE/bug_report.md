@@ -16,6 +16,10 @@ assignees: ''
 1.  yyy
 1.  zzz
 
+environments:
+
+-   version: (please write the versions of related things, e.g. `$ oj --version`)
+
 ## Expected behavior / 期待される挙動
 
 
