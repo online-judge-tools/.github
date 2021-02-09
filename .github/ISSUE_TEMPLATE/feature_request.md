@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request / 機能要望
 about: Suggest an idea for this project
 title: ''
 labels: ''
@@ -7,13 +7,13 @@ assignees: ''
 
 ---
 
-## Description
+## Description / 説明
 
 
-## Possible implementations and the analysis (optional)
+## Motivation / 動機
 
 
-## Other notes
+## Other notes / その他
 
 -   Will you try to create a pull request?
     -   yes / no
